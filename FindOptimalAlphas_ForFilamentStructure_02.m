@@ -89,6 +89,7 @@ MP.nPairs = nPairs;
 % RUN ALPHA OPTIMIZATION MODEL FOR FIRST PAIR ================================================
 %=============================================================================================
 % Run with filament arrangement: "Create line of points" nPts = 2 (lines 52-58 above)
+
 %     CreatePairPlot = true;
 %     HeatMapPlot = true;
 %     PMO = CalculateOptimalAphasForFilamentPair( MP, CreatePairPlot, HeatMapPlot);
