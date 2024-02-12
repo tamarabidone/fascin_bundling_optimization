@@ -94,7 +94,7 @@ MP.nPairs = nPairs;
 %     PMO = CalculateOptimalAphasForFilamentPair( MP, CreatePairPlot, HeatMapPlot);
 
 %=============================================================================================
-% RUN ADD-ONE-FILAMENT-AT-A-TIME MODEL TO FIRST PAIR =========================================
+% RUN ADD-ONE-FILAMENT-AT-A-TIME MODEL =======================================================
 %=============================================================================================
 % Run with filament arrangement: "Adjacent bundle" (lines 35-41 above) or "hexagonal array" (lines 44-49 above)
 
